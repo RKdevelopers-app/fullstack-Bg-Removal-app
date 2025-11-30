@@ -95,12 +95,12 @@ const paymentRazorpay = async (req, res) => {
         amount = 10;
         break;
       case "Advanced":
-        plan = "Basic";
+        plan = "Advanced";
         credits = 500;
         amount = 50;
         break;
       case "Business":
-        plan = "Basic";
+        plan = "Business";
         credits = 5000;
         amount = 250;
         break;
@@ -151,7 +151,7 @@ const verifyRazorpay = async (req, res) => {
       );
       if (transactionData.payment) {
         return res.json({ success: false, message: "Payment Failed" });
-      }
+      } // Prevent double-payment, If someone tries verifying same order twice → reject.
 
       // Adding credits in user data
       const userData = await userModel.findOne({

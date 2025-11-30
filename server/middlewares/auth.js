@@ -5,7 +5,7 @@ const authUser = async (req, res, next) => {
   try {
     const { token } = req.headers;
 
-    console.log("token :>> ", token);
+    // console.log("token :>> ", token);
 
     if (!token) {
       return res.json({
