@@ -69,7 +69,7 @@ Built with a clean MERN architecture and secured with Clerk Authentication.
 ![Signup](https://github.com/RKdevelopers-app/fullstack-Bg-Removal-app/blob/882fd332305f47d666be3e306d76a0899bffc2b7/screenshots/Screenshot%202025-11-30%20at%2017.02.04.png?raw=true)
 
 ### 🔐 Sign-In / Clerk Authentication Screen
-![Login](\https://github.com/RKdevelopers-app/fullstack-Bg-Removal-app/blob/882fd332305f47d666be3e306d76a0899bffc2b7/screenshots/Screenshot%202025-11-30%20at%2017.02.26.png?raw=true)
+![Login](https://github.com/RKdevelopers-app/fullstack-Bg-Removal-app/blob/882fd332305f47d666be3e306d76a0899bffc2b7/screenshots/Screenshot%202025-11-30%20at%2017.02.26.png?raw=true)
 
 ### 💬 Background Removal — Result Page
 ![Chat](https://github.com/RKdevelopers-app/fullstack-Bg-Removal-app/blob/882fd332305f47d666be3e306d76a0899bffc2b7/screenshots/Screenshot%202025-11-30%20at%2017.05.38.png?raw=true)
@@ -77,7 +77,7 @@ Built with a clean MERN architecture and secured with Clerk Authentication.
 ### 🎨 Buy Credits Page (Pricing Page)
 ![Settings](https://github.com/RKdevelopers-app/fullstack-Bg-Removal-app/blob/882fd332305f47d666be3e306d76a0899bffc2b7/screenshots/Screenshot%202025-11-30%20at%2017.06.51.png?raw=true)
 
-### Razorpay Checkout Popu
+### Razorpay Checkout Popup
 ![Profile](https://github.com/RKdevelopers-app/fullstack-Bg-Removal-app/blob/882fd332305f47d666be3e306d76a0899bffc2b7/screenshots/Screenshot%202025-11-30%20at%2017.05.52.png?raw=true)
 
 ---
