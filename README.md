@@ -66,18 +66,18 @@ Built with a clean MERN architecture and secured with Clerk Authentication.
 ## 📸 Screenshots
 
 ### 📝 Home / Upload Page
-![Signup](https://github.com/RKdevelopers-app/fullstack-chat-app/blob/a08407509884220cb8413eb2da1ca72aa2c10bbb/screenshots/Screenshot%202025-11-26%20at%2014.48.12.png?raw=true)
+![Signup](https://github.com/RKdevelopers-app/fullstack-Bg-Removal-app/blob/882fd332305f47d666be3e306d76a0899bffc2b7/screenshots/Screenshot%202025-11-30%20at%2017.02.04.png?raw=true)
 
 ### 🔐 Sign-In / Clerk Authentication Screen
-![Login](https://github.com/RKdevelopers-app/fullstack-chat-app/blob/a08407509884220cb8413eb2da1ca72aa2c10bbb/screenshots/Screenshot%202025-11-26%20at%2014.35.36.png?raw=true)
+![Login](\https://github.com/RKdevelopers-app/fullstack-Bg-Removal-app/blob/882fd332305f47d666be3e306d76a0899bffc2b7/screenshots/Screenshot%202025-11-30%20at%2017.02.26.png?raw=true)
 
 ### 💬 Background Removal — Result Page
-![Chat](https://github.com/RKdevelopers-app/fullstack-chat-app/blob/a08407509884220cb8413eb2da1ca72aa2c10bbb/screenshots/Screenshot%202025-11-26%20at%2014.36.55.png?raw=true)
+![Chat](https://github.com/RKdevelopers-app/fullstack-Bg-Removal-app/blob/882fd332305f47d666be3e306d76a0899bffc2b7/screenshots/Screenshot%202025-11-30%20at%2017.05.38.png?raw=true)
 
 ### 🎨 Buy Credits Page (Pricing Page)
-![Settings](https://github.com/RKdevelopers-app/fullstack-chat-app/blob/a08407509884220cb8413eb2da1ca72aa2c10bbb/screenshots/Screenshot%202025-11-26%20at%2014.37.26.png?raw=true)
+![Settings](https://github.com/RKdevelopers-app/fullstack-Bg-Removal-app/blob/882fd332305f47d666be3e306d76a0899bffc2b7/screenshots/Screenshot%202025-11-30%20at%2017.06.51.png?raw=true)
 
 ### Razorpay Checkout Popu
-![Profile](https://github.com/RKdevelopers-app/fullstack-chat-app/blob/a08407509884220cb8413eb2da1ca72aa2c10bbb/screenshots/Screenshot%202025-11-26%20at%2014.37.29.png?raw=true)
+![Profile](https://github.com/RKdevelopers-app/fullstack-Bg-Removal-app/blob/882fd332305f47d666be3e306d76a0899bffc2b7/screenshots/Screenshot%202025-11-30%20at%2017.05.52.png?raw=true)
 
 ---
