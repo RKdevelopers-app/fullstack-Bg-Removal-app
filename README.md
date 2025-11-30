@@ -59,7 +59,7 @@ Built with a clean MERN architecture and secured with Clerk Authentication.
 - Clipdrop API (Background Removal)
 - Razorpay Node SDK (Payment Integration)
 - Clerk Webhooks (User Sync)
-- JSON Web Token (Token Decoding for Auth)
+- JSON Web Token (Token Decoding for Auth).
 
 ---
 
