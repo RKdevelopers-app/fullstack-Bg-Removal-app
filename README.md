@@ -1,4 +1,4 @@
-<h1 style="font-size: 36px; margin-bottom: 10px;">🎨 AI Background Remover – MERN Fullstack App/h1>
+<h1 style="font-size: 36px; margin-bottom: 10px;">🎨 AI Background Remover – MERN Fullstack App</h1>
 
 Live Demo 👉 https://fullstack-bg-removal-app-75fj.vercel.app
 
